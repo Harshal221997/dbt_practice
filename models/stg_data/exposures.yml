@@ -15,7 +15,6 @@ exposures:
       - ref('employee_final')
       - ref('order_append')
       - ref('order_delete_insert')
-      - ref('order_insert_overwrite')
       - ref('order_macro_data')
       - ref('order_merge')
       - ref('customer')
